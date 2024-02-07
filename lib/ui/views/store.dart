@@ -106,7 +106,7 @@ class _StoreState extends State<Store> {
                               Text("${game?.price} ₺",style: const TextStyle(fontSize: 24,fontWeight: FontWeight.bold, color: Colors.white),),
                               ElevatedButton(onPressed: (){
                                 
-                              }, child: const Text("Sepete Ekle",style: TextStyle(fontSize: 12,fontWeight: FontWeight.bold),))
+                              }, child: const Text("Satın Al",style: TextStyle(fontSize: 12,fontWeight: FontWeight.bold),))
                             ],
                           ),
                         ],
